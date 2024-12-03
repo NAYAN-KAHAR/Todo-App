@@ -1,6 +1,8 @@
 # React + Vite
 
-#React ToDo App
+# React ToDo App
+
 A simple and functional ToDo app built with React.js, featuring localStorage integration for persistent task management.
-#Features
+
+# Features
 Add, edit, and delete tasks
